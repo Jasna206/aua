@@ -113,3 +113,17 @@ footer {
   border:6px solid #133aac;
   border-radius:50% ;
 }
+
+
+
+.headphone  {
+    position:absolute;
+    left: 380px;
+    top:30px;
+}
+
+
+
+.post:hover  {
+   background-color:#29477F; 
+}
